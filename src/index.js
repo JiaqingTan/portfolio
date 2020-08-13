@@ -77,8 +77,8 @@ const Tab = props =>{
 }
 
 var clock = new THREE.Clock();
-var speed = 0.25; //units a second
-var zMaxMovement = 0.3;
+var speed = 0.5; //units a second
+var zMaxMovement = 0.75;
 
 function Scene() {
   let group = useRef()
