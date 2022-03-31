@@ -4,4 +4,5 @@ module.exports = {
     title: "Tan Jiaqing",
   },
   plugins: [],
+  pathPrefix: "/portfolio",
 };
